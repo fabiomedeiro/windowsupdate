@@ -1,5 +1,5 @@
 <?php
-// include file (functions.php) which has all functions created to manipulate data from database for this system
+// This file contain  all functions created to manipulate data from database for this system
 
 // This function does  connection with database.
 function connect_db()
